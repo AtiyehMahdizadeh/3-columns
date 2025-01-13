@@ -8,7 +8,7 @@ export default function CarsContainer(){
         <div className="cars_container">
 
             <Car 
-              icon="/images/icon-sedans.svg"
+              icon="./images/icon-sedans.svg"
               type="SEDAN"
               description="Choose a sedan for its affordability and excellent fuel economy.
                     Ideal for cruising in the city or on your next road trip."
@@ -19,7 +19,7 @@ export default function CarsContainer(){
             />
 
             <Car 
-              icon="/images/icon-suvs.svg"
+              icon="./images/icon-suvs.svg"
               type="SUV"
               description="Take an SUV for its spacious interior, power, and versatility.
               Perfect for your next family vacation and off-road adbentures."
@@ -29,7 +29,7 @@ export default function CarsContainer(){
 
 
             <Car 
-              icon="/images/icon-luxury.svg"
+              icon="./images/icon-luxury.svg"
               type="LUXURY"
               description="Cruise in the best car brands without the bloated prices.
               Enjoy the enhanced comfort of a luxury rental and arrive in style."
